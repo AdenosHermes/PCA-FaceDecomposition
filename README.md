@@ -1,4 +1,5 @@
-.# PCA-FaceDecomposition
+# PCA-FaceDecomposition
 
 A simple implementation of principal component analysis(PCA) for face recognition, by decomposing a face into k many "eigenfaces".
 
+<img src="k=5.png">
